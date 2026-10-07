@@ -351,5 +351,7 @@ After running the script:
 
 <img width="1892" height="1042" alt="image" src="https://github.com/user-attachments/assets/d5a585bf-89d0-46ca-be85-ca485bd7c46d" />
 
+## github
+https://github.com/Sarishatheiveegan/Registration-Form-Automation-testing.git
 
-**Completed – Selenium Registration Form Automation**
+
